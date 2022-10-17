@@ -1,0 +1,5 @@
+a=int(input("Kubning qirasini kiriting  a="))
+S=6*pow(a,2)
+V=pow(a,3)
+print('Kubning hajmi V=',V)
+print('Kubning sirt yuzasi S=',S)
